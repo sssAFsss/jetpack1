@@ -39,6 +39,7 @@ fun GridMenu(travels: List<Travel>) {
             ) {
 
             // this is test
+            // this is test2
             items(travels.size) {
                 Card(
                     onClick = {},
